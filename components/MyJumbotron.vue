@@ -76,8 +76,8 @@
         <b-row class="mt-4">
             <b-col>
                 <b-nav-form>
-					<b-form-datepicker id="example-datepicker" v-model="deliver_date" class="form-control-lg" style="z-index: 9999;"></b-form-datepicker>
-                    <b-form-timepicker v-model="deliver_time" locale="id" class="form-control-lg ml-lg-4" style="z-index: 9999;"></b-form-timepicker>
+					<b-form-datepicker id="example-datepicker" v-model="deliver_date" class="form-control-lg"></b-form-datepicker>
+                    <b-form-timepicker v-model="deliver_time" locale="id" class="form-control-lg ml-lg-4"></b-form-timepicker>
 				</b-nav-form>
             </b-col>
         </b-row>
