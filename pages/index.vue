@@ -1,5 +1,5 @@
 <template>
-	<div>
+	<div class="mt-4">
 		<Header />
 
 		<!-- <main role="main"> -->
@@ -9,7 +9,7 @@
 		<MyMenu />
 		<!-- </main> -->
 
-		<div class="content">
+		<div class="ml-0 mr-0">
 			<p>
 				Competently coordinate an expanded array of action items before
 				bleeding-edge web-readiness. Assertively scale corporate core
