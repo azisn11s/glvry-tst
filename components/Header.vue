@@ -2,7 +2,7 @@
 	<div class="bg-white sticky-top">
 		<b-navbar toggleable="lg" class=" container bg-white">
 			<b-navbar-brand href="#" style="max-width: 150px">
-				<b-img src="~/static/logo-grabfood.png" fluid alt="GravFood" />
+				<b-img src="~/static/logo-grabfood.png" fluid alt="GrabFood" />
 			</b-navbar-brand>
 
 			<b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
